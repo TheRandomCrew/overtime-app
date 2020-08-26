@@ -34,6 +34,23 @@ I'll try to commit as much as possible, and to follow `gitflow`, so please check
 
 > In branch dev you can find my latest code on this project!
 
+## Linters and Tests
+
+### Standard - Ruby style guide, linter, and formatter
+
+[![Ruby Style Guide][style-standard-badge]](https://github.com/testdouble/standard)
+
+* **No configuration.** The easiest way to enforce consistent style in your
+  project. Just drop it in.
+* **Automatically format code.** Just run `standardrb --fix` and say goodbye to
+  messy or inconsistent code.
+* **Catch style issues & programmer errors early.** Save precious code review
+  time by eliminating back-and-forth between reviewer & contributor.
+
+No decisions to make. It just works.
+
+More info in their [repo](https://github.com/testdouble/standard)
+
 ## Author
 
 | [Israel Laguan][author-github] | ![email-icon][] Email me to [israellaguan@gmail.com][author-email] / ![linkedin-icon][] Connect to [my Linkedin][author-linkedin] |
@@ -58,6 +75,7 @@ Feel free to check the [issues page][issues-url].
 📝 This project is licensed under the [Apache 2](LICENSE)\
 Feel free to fork this project and improve it
 
+[style-standard-badge]: https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=for-the-badge
 [contributions-welcome]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=for-the-badge
 [issues-url]: https://github.com/Israel-Laguan/overtime-app/issues
 [badge-apache]: https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge

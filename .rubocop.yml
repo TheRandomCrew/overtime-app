@@ -1,24 +1,5 @@
----
-#######################
-# Rubocop Config file #
-#######################
-inherit_from:
-  - .rubocop_todo.yml
-  - .rubocop_app_overrides.yml
-
-inherit_mode:
-  merge:
-    - Exclude
-
-Rails:
-  Enabled: true
-
-inherit_gem:
-  rubocop-github:
-    - config/default.yml
-
 AllCops:
-  EnabledByDefault: true
+  DisabledByDefault: true
   Exclude:
     - "bin/*"
     - "db/**/*"
