@@ -541,8 +541,10 @@ Lint/SafeNavigationConsistency:
 Lint/SafeNavigationWithEmpty:
   Enabled: true
 
+# rubocop:disable
 Lint/SelfAssignment:
   Enabled: true
+# rubocop:enable
 
 Lint/ShadowedArgument:
   Enabled: true
