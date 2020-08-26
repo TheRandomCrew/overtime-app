@@ -1,6 +1,17 @@
 AllCops:
   DisabledByDefault: true
-  Exclude: []
+  Exclude:
+    - "bin/*"
+    - "db/**/*"
+    - "config/**/*"
+    - "Guardfile"
+    - "Rakefile"
+    - "spec/**/*"
+    - "test/**/*"
+    - "*/**/*.jbuilder"
+    - "Gemfile"
+    - "config.ru"
+  DisplayCopNames: true
 
 Bundler/InsecureProtocolSource:
   Enabled: true
