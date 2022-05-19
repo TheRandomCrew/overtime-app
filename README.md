@@ -67,7 +67,7 @@ I'll try to commit as much as possible, and to follow `gitflow`, so please check
         </div>
     </td>
   </tr>
-</table>                                                          |
+</table>                                                          
 
 ## Contributing
 
