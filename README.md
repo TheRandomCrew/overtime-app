@@ -65,7 +65,7 @@ Feel free to fork this project and improve it
 [author-pic]: https://avatars2.githubusercontent.com/u/36519478?s=460&v=4
 [author-github]: https://israel-laguan.github.io
 [author-linkedin]: https://www.linkedin.com/in/israellaguan
-[author-email]: israellaguan@gmail.com
+[author-email]: mailto:israellaguan@gmail.com
 [linkedin-icon]: https://img.icons8.com/color/20/000000/linkedin.png
 [email-icon]: https://img.icons8.com/color/20/000000/message-squared.png
 [banner]: https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg
