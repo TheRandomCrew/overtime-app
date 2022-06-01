@@ -36,9 +36,38 @@ I'll try to commit as much as possible, and to follow `gitflow`, so please check
 
 ## Author
 
-| [Israel Laguan][author-github] | ![email-icon][] Email me to [israellaguan@gmail.com][author-email] / ![linkedin-icon][] Connect to [my Linkedin][author-linkedin] |
-| :----------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: |
-|        ![author-pic][]         |                                                            ![banner][]                                                            |
+<table style="width:100%">
+<thead>
+    <tr>
+        <th align="center">
+            <a href="https://israel-laguan.github.io" rel="nofollow">Israel Laguan</a>
+        </th>
+        <th align="center">
+             <div>
+                <img align="top" width="26px" src="https://img.icons8.com/color/20/000000/message-squared.png" /> Email me to  <a href=”israellaguan@gmail.com”>israellaguan@gmail.com</a>
+            </div>
+            <div>
+                <img align="top" width="26px" src="https://img.icons8.com/color/20/000000/linkedin.png" />
+                Connect to<a href="https://www.linkedin.com/in/israellaguan">my Linkedin</a>   
+            </div>
+        </th>
+    </tr>
+</thead>
+  <tr>
+    <td>
+        <div>
+            <a href="./docs/img/photo.png" target="_blank" rel="author">
+                <img src="https://avatars2.githubusercontent.com/u/36519478?s=460&v=4">
+            </a>
+        </div>
+    </td>
+    <td>
+        <div>
+            <img src="https://github.com/Israel-Laguan/Israel-Laguan/raw/master/docs/banner.jpg">
+        </div>
+    </td>
+  </tr>
+</table>                                                          
 
 ## Contributing
 
